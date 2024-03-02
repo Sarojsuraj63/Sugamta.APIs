@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sugamta.API", "Sugamta.API\Sugamta.API.csproj", "{D3E56001-A906-4E4C-BF97-0FCA591CFAD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{4F38A2D6-D169-42A7-9A32-A0EC8F8A6D3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{1E990FFA-1E6A-46CF-A355-E52B1214C3F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SugamtaAPI.Test", "SugamtaAPI.Test\SugamtaAPI.Test.csproj", "{7DC02454-BA60-4730-8526-F943FBCF1EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E56001-A906-4E4C-BF97-0FCA591CFAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E56001-A906-4E4C-BF97-0FCA591CFAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E56001-A906-4E4C-BF97-0FCA591CFAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E56001-A906-4E4C-BF97-0FCA591CFAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F38A2D6-D169-42A7-9A32-A0EC8F8A6D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F38A2D6-D169-42A7-9A32-A0EC8F8A6D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F38A2D6-D169-42A7-9A32-A0EC8F8A6D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F38A2D6-D169-42A7-9A32-A0EC8F8A6D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E990FFA-1E6A-46CF-A355-E52B1214C3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E990FFA-1E6A-46CF-A355-E52B1214C3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E990FFA-1E6A-46CF-A355-E52B1214C3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E990FFA-1E6A-46CF-A355-E52B1214C3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC02454-BA60-4730-8526-F943FBCF1EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC02454-BA60-4730-8526-F943FBCF1EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC02454-BA60-4730-8526-F943FBCF1EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC02454-BA60-4730-8526-F943FBCF1EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CE6689E-FA7B-421C-9258-447D0FA44D26}
+	EndGlobalSection
+EndGlobal
