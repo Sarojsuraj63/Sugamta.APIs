@@ -1,0 +1,6 @@
+@Sugamta.API_HostAddress = http://localhost:5105
+
+GET {{Sugamta.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
